@@ -4,3 +4,8 @@ Welcome to the HRMS projects
 - created the table (entities) 
 - insertions, and 
 - queries
+
+
+
+
+Thanks :))
