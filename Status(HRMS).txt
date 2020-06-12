@@ -1,4 +1,6 @@
 Welcome to the HRMS projects 
 
 * Done with the MySQL 
-- created the table (entities, insertions, and queries)
+- created the table (entities) 
+- insertions, and 
+- queries
